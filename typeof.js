@@ -6,19 +6,19 @@
 
 // console.log(typeof num);
 
-// let boolean = 5>6
+let boolean = 5>6
 
-// console.log(typeof boolean);
+console.log(typeof boolean);
 
 // let user = Error()
 
 // console.log(typeof user)
 
 
-let var1;
+// let var1;
 
-console.log(var1);
+// console.log(var1);
 
-let user
+// let user
 
-console.log(user);
+// console.log(user);
